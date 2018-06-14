@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Obstacle
+  - Fireball
+  - RedGem
+  - PurpleGem
+  - GreenGem
+  - Knight
   layers:
   - Default
   - TransparentFX
@@ -19,8 +25,8 @@ TagManager:
   - Knight1
   - Knight 2
   - Ground
-  - 
-  - 
+  - Floor
+  - Sky
   - 
   - 
   - 
